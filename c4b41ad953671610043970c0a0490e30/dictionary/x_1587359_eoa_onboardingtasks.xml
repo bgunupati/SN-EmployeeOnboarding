@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d1b18f99536b1610043970c0a0490e0a" extends="task" label="OnboardingTasks" max_length="40" name="x_1587359_eoa_onboardingtasks" type="collection"/>
+</database>

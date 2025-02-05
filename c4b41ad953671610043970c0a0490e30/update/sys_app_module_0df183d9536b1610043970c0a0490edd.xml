@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="OnboardingTasks">49f183d9536b1610043970c0a0490ed9</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>OnboardingTasks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1587359_eoa_onboardingtasks</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1587359_eoa.onboardingtasks_user,x_1587359_eoa.eoa_facility_role,x_1587359_eoa.eoa_hr_recruiter_role,x_1587359_eoa.eoa_humanresource_role,x_1587359_eoa.eoa_it_role,x_1587359_eoa.eoa_network_role,x_1587359_eoa.eoa_newemployee_role</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-05 11:38:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0df183d9536b1610043970c0a0490edd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>OnboardingTasks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee Onboarding Application" source="x_1587359_eoa">c4b41ad953671610043970c0a0490e30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding Application">c4b41ad953671610043970c0a0490e30</sys_scope>
+        <sys_update_name>sys_app_module_0df183d9536b1610043970c0a0490edd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-05 11:42:25</sys_updated_on>
+        <timeline_page/>
+        <title>OnboardingTasks</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
