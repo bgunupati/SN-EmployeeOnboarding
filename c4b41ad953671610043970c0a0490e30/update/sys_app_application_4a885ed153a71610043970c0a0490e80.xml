@@ -7,14 +7,14 @@
         <hint/>
         <name>Employee</name>
         <order>100</order>
-        <roles>x_1587359_eoa.employee_user,x_1587359_eoa.eoa_facility_role,x_1587359_eoa.eoa_humanresource_role,x_1587359_eoa.eoa_it_role,x_1587359_eoa.eoa_network_role,x_1587359_eoa.eoa_newemployee_role</roles>
+        <roles>x_1587359_eoa.employee_user,x_1587359_eoa.eoa_facility_role,x_1587359_eoa.eoa_it_role,x_1587359_eoa.eoa_network_role,x_1587359_eoa.eoa_newemployee_role,x_1587359_eoa.eoa_hr_recruiter_role</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-02-05 08:37:25</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4a885ed153a71610043970c0a0490e80</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Employee Onboarding</sys_name>
         <sys_overrides/>
         <sys_package display_value="Employee Onboarding Application" source="x_1587359_eoa">c4b41ad953671610043970c0a0490e30</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Employee Onboarding Application">c4b41ad953671610043970c0a0490e30</sys_scope>
         <sys_update_name>sys_app_application_4a885ed153a71610043970c0a0490e80</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-05 09:36:14</sys_updated_on>
+        <sys_updated_on>2025-02-05 10:06:59</sys_updated_on>
         <title>Employee Onboarding</title>
         <view_name/>
     </sys_app_application>

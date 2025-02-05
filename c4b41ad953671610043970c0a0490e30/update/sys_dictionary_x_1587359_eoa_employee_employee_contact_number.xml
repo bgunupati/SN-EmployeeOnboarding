@@ -32,9 +32,9 @@
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">phone_number_e164</internal_type>
-        <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>true</mandatory>
+        <max_length>14</max_length>
         <name>x_1587359_eoa_employee</name>
         <next_element/>
         <primary>false</primary>
@@ -58,7 +58,7 @@
         <sys_scope display_value="Employee Onboarding Application">c4b41ad953671610043970c0a0490e30</sys_scope>
         <sys_update_name>sys_dictionary_x_1587359_eoa_employee_employee_contact_number</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-05 08:37:25</sys_updated_on>
+        <sys_updated_on>2025-02-05 11:26:04</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
